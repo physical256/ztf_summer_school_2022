@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large data files
+ztf_summer_school_neutrinos.pkl
